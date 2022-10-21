@@ -7,23 +7,27 @@ body {
 }
 
 h1 {
+  font-family: $font-familyv2;
   font-size: 3em;
   margin: .5em auto;
 }
 
 h2 {
+  font-family: $font-familyv2;
   font-size: 2em;
   margin: 1em auto;
   text-align: center;
 }
 
 h3 {
+  font-family: $font-familyv2;
   font-size: 1.5em;
   margin: 1.3333em auto;
   text-align: center;
 }
 
 h4 {
+  font-family: $font-familyv2;
   font-size: 1.25em;
   font-style: italic;
   margin: 1.875em auto;
@@ -31,6 +35,7 @@ h4 {
 }
 
 h5 {
+  font-family: $font-familyv2;
   font-size: 1em;
   font-style: italic;
   margin: 2em auto;
@@ -38,6 +43,7 @@ h5 {
 }
 
 h6 {
+  font-family: $font-familyv2;
   font-size: .875em;
   font-style: italic;
   margin: 2.25em auto;
@@ -61,6 +67,7 @@ a:focus {
 }
 
 blockquote {
+  font-family: $font-familyv2;
   margin: 2em auto;
   opacity: .8;
   > * {
@@ -69,6 +76,7 @@ blockquote {
 }
 
 blockquote.epigraph {
+  font-family: $font-familyv2;
   font-style: italic;
 }
 
@@ -119,6 +127,7 @@ figcaption {
 }
 
 .content-title {
+  font-family: $font-familyv2;
   font-size: 2em;
   margin-bottom: 2em;
   text-align: center;
