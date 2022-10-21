@@ -3,13 +3,15 @@
  */
 
 code.highlighter-rouge {
-  background: $highlight;
+  background: $text-color;
+  color: $brand-color;
   font-family: courier, monospace;
   font-size: .875em;
 }
 
 .highlight {
-  background: #fff;
+  background: $text-color;
+  color: $brand-color;
   font-family: courier, monospace;
   font-size: .875em;
   margin: 2rem auto;
@@ -19,7 +21,7 @@ code.highlighter-rouge {
   }
 
   .highlighter-rouge & {
-    background: $highlight;
+    background: $text-color;
   }
 
   .c     { color: #998; font-style: italic } // Comment
