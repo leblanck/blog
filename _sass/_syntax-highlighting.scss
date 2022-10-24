@@ -3,6 +3,7 @@
  */
 
 code.highlighter-rouge {
+  border-radius: 5%;
   background: $text-color;
   color: $brand-color;
   font-family: courier, monospace;
@@ -10,6 +11,7 @@ code.highlighter-rouge {
 }
 
 .highlight {
+  border-radius: 5%;
   background: $text-color;
   color: $brand-color;
   font-family: courier, monospace;
